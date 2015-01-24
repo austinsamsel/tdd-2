@@ -1,5 +1,8 @@
 == README
 
+left off at chapter 7:
+https://www.railstutorial.org/book/sign_up
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
