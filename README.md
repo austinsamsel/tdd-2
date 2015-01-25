@@ -1,6 +1,6 @@
 == README
 
-left off at chapter 7:
+left off at chapter 8:
 https://www.railstutorial.org/book/sign_up
 
 This README would normally document whatever steps are necessary to get the
