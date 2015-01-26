@@ -1,7 +1,7 @@
 == README
 
-left off at chapter 8:
-https://www.railstutorial.org/book/sign_up
+left off at chapter 9:
+https://www.railstutorial.org/book/updating_and_deleting_users
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
