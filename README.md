@@ -1,7 +1,7 @@
 == README
 
-left off at chapter 10:
-https://www.railstutorial.org/book/account_activation_password_reset
+left off at 11
+https://www.railstutorial.org/book/user_microposts
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
